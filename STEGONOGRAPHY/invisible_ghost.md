@@ -21,6 +21,6 @@ Ved å justere disse verdiene klarte jeg å lese teksten, som ga meg flagget på
 CTFkom{alm0st_1nv1sibl3_t3xt_903ufd0t34+}
 
 Relevante skjermbilder:
-![Oppgave-bilde filen] <img width="1348" height="1348" alt="ghost" src="https://github.com/user-attachments/assets/04964aa0-c4b9-4490-b3c7-fd1c87d582f4" />
-![Løst Oppgave-bilde filen] <img width="1348" height="1348" alt="ghost_Løst" src="https://github.com/user-attachments/assets/4add45aa-4823-4c7f-85b6-cfaf276b5cd5" />
+Oppgave bildet <img width="1348" height="1348" alt="ghost" src="https://github.com/user-attachments/assets/04964aa0-c4b9-4490-b3c7-fd1c87d582f4" />
+Løst oppgave bildet <img width="1348" height="1348" alt="ghost_Løst" src="https://github.com/user-attachments/assets/4add45aa-4823-4c7f-85b6-cfaf276b5cd5" />
 
