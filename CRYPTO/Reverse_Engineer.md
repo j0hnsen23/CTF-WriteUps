@@ -6,7 +6,6 @@
 ## Beskrivelse
 Oppgaven ga ut et Python script ('challenge.py') som krypterer flagget, samt en kryptert output-streng. Målet er å reversere krypteringsprosessen for å gjenopprette det opprinnelige flagget.
 Tipset i oppgaven var: 
-> Knowing what bits/binary/ASCII is and how to convert will help you a lot!
  
 Dette antydet at løsningen involverte binær- og ASCII-konvertering.
 
